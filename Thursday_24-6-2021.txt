@@ -1,0 +1,11 @@
+﻿Thursday-24-06-2021
+
+Attended my open house and managed to secure first position in class.
+
+Initiated building a key logger.
+
+Studied some geography.
+
+Explored python database connectivity.
+
+Linked my python database to a website I created running PHP in the back end .
