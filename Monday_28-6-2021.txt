@@ -1,0 +1,11 @@
+﻿Monday_28_6_2021
+
+Recorded the french video for my school.
+
+Made a python program that finds the factors of a given number.
+
+Continued studying about the Linux file system (covered the boot directory today.)
+
+Tried renaming some Linux commands and attempted to make my own.
+
+Discussed my summer vacation plans with my friends.
