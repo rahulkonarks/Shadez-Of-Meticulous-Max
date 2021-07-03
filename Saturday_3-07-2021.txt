@@ -1,0 +1,11 @@
+Saturday_3-7-2021
+
+* Studied the basics of networking.
+
+* Downloaded and created simple  topologies in CPT (Cisco Packet Tracer).
+
+* Started reading the book “The Linux Command Line: A complete Introduction 3rd Edition”.
+
+* Got a new monitor; Unboxed it and set it up.
+
+* Had a look at my raspberry pi 400 (The GUI) and worked on it.
