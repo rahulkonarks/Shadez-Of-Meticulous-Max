@@ -1,0 +1,11 @@
+Monday_12-07-2021
+
+* Built some cool little projects in JavaScript to test my skills.
+
+* Got a head start on the C# programming language.
+
+* Introduced myself to some intermediate CSS concepts.
+
+* Threw some light on the world’s most remote place (Bouvet Islands) during my Geography studies.
+
+* Understood what ‘The DOM’ is and played with it in JavaScript.
