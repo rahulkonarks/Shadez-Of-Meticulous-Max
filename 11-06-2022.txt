@@ -1,0 +1,9 @@
+11-06-2022
+
+1. Built a GUI currency converter using Python.
+
+2. Practiced German.
+
+3. Practiced Animation in Synfig Studio.
+
+4. Drew some animated comics.
