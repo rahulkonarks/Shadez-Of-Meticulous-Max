@@ -1,0 +1,8 @@
+3-8-2022
+
+Dove into C# concepts
+
+Understood Data structures and algorithms
+
+Designed some graphics
+
