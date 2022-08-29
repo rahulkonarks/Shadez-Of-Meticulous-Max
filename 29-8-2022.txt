@@ -1,0 +1,11 @@
+29-8-2002
+
+1. Did some excercise.
+
+2. Practiced German on Duolingo.
+
+3. Made a binary search program and studied about Big O notation.
+
+4. Studied mathematics.
+
+5. Made a GUI calculator in Python.
