@@ -1,0 +1,15 @@
+10-9-2022
+
+1. Did some exercise.
+
+2. Practiced German on Duolingo.
+
+3. Read about 'head' and 'tail' commands in Linux.
+
+4. Looked at the Bubble sort algorithm from a practical point of view.
+
+5. Studied mathematics.
+
+6. Made memes.
+
+7. Learned more about the various Big O time complexities.
