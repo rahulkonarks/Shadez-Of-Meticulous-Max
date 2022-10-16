@@ -1,11 +1,13 @@
 16-10-2022
 
-1. Practiced German on Duolingo.
+1. Made a base for a GUI rock, paper, scissors game in python.
 
-2. Studied Mathematics.
+2. Practiced German on Duolingo.
 
-3. Studied History and civics.
+3. Studied Mathematics.
 
-4. Did some exercise.
+4. Studied History and civics.
 
-5. Watched TV.
+5. Did some exercise.
+
+6. Watched TV.
