@@ -1,0 +1,11 @@
+7-11-2022
+
+1. Studied mathematics.
+
+2. Practiced German on Duolingo.
+
+3. Took a closer look at the selection sort algorithm.
+
+4. Learned more about expressing time complexities with Big O.
+
+5. Introduced myself to the Insertion sort algorithm.
