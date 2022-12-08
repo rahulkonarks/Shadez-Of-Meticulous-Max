@@ -1,0 +1,17 @@
+8-12-2022
+
+1. Practiced French on Duolingo.
+
+2. Did some exercise.
+
+3. Learned how to send emails with python.
+
+4. Did some exercise.
+
+5. Added an email form to my portfolio website.
+
+6. Secured my website by using environment variables.
+
+7. Studied mathematics.
+
+8. Pushed my projects to github.
