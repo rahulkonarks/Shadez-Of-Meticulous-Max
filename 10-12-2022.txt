@@ -1,0 +1,15 @@
+10-12-2022
+
+1. Did some exercise.
+
+2. Practiced basic 3D modelling in Blender.
+
+3. Introduced myself to the DaVinci Resolve video editor.
+
+4. Practiced Reading excel files and redirecting their contents to a PDF in python.
+
+5. Practiced Duolingo.
+
+6. Studied History.
+
+7. Studied Mathematics.
