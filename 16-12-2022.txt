@@ -1,0 +1,21 @@
+16-12-2022
+
+1. Did some exercise.
+
+2. Built a rest API in python. (Partly)
+
+3. Practiced French on Duolingo.
+
+4. Introduced myself to Flask.
+
+5. Studied Geography.
+
+6. Studied History.
+
+7. Studied Civics.
+
+8. Practiced masking in DaVinci Resolve.
+
+9. Helped out with chores.
+
+10. Studied Mathematics.
