@@ -1,0 +1,15 @@
+20-12-2022
+
+1. Practiced French on Duolingo.
+
+2. Did some exercise.
+
+3. Studied Mathematics.
+
+4. Practiced Streamlit in Python.
+
+5. Introduced myself to NLP.
+
+6. Integrated Streamlit, Plotly and NLTK.
+
+7. Experimented with more features in DaVinci Resolve
