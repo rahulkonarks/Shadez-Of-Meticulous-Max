@@ -1,0 +1,13 @@
+28-12-2022
+
+1. Practiced French on Duolingo.
+
+2. Introduced myself to web-scraping in python using requests and selectorlib.
+
+3. Practiced CSS.
+
+4. Introduced myself to Javascript.
+
+5. Had a look at the boto3 library in python.
+
+6. Helped out with chores.
