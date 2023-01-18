@@ -1,0 +1,11 @@
+18-1-2023
+
+1. Practiced french on Duolingo.
+
+2. Did some exercise.
+
+3. Helped out with chores.
+
+4. Dove deeper into the boto3 library of python.
+
+5. Learned about lists in python.
