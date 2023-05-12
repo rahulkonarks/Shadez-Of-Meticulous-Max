@@ -1,0 +1,13 @@
+12-5-2023
+
+1. Practiced Arabic on Duolingo.
+
+2. Did some exercise.
+
+3. Studied mathematics.
+
+4. Read 2 chapters of my python book.
+
+5. Experimented with lists in python.
+
+6. Worked with strings, integers and floats in python.
