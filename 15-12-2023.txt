@@ -1,0 +1,9 @@
+15-12-2023
+
+1. Practiced French on Duolingo.
+
+2. Did some exercise.
+
+3. Retrieved weather data using openweathermap API.
+
+4. Studied Algebra in mathematics.
